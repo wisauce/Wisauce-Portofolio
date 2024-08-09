@@ -76,7 +76,7 @@ function Home() {
   return (
     <>
       <head>
-        <title>Wisauce's Portofolio</title>
+        <title>Wisauce Portofolio</title>
         <link rel="icon" type="image/png" href="/w.png" />
       </head>
       <body>
