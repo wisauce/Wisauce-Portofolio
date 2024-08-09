@@ -47,7 +47,7 @@ function Home() {
             alt=''
             className='mt-2'
           />
-          <p className='text-blue-500 m-2'>The name is Wisa Ahmaduta Dinutama. I was bitten by a "laba-laba sunda," which led me to pursue System and Information Technology at Bandung Institute of Technology. People often describe me in various ways—some call me a programmer, a photographer, or even a manager. At heart, I’m just a student who is continuously learning and improving. I’m passionate about software engineering. When I’m not online playing games, you might find me cycling or spending time with cats. Thank you for visiting (sorry for not offering any cookie). I genuinely hope the strings of fate destined us to do great things together.</p>
+          <p className='text-blue-500 m-2'>The name is Wisa Ahmaduta Dinutama. I was bitten by a "laba-laba sunda," which led me to pursue System and Information Technology at Bandung Institute of Technology. People often describe me in various ways—some call me a programmer, a photographer, or even a manager. At heart, I am just a student who is continuously learning and improving. I am passionate about software engineering. When I am not online playing games, you might find me cycling or spending time with cats. Thank you for visiting (sorry for not offering any cookie). I genuinely hope the strings of fate destined us to do great things together.</p>
         </div>
       );
     }
