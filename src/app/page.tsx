@@ -115,7 +115,7 @@ function Home() {
               setShowCoding(false)
               setShowBiodata(true)}} className='size-24 hover:bg-blue-500 hover:border-blue-400 hover:opacity-50 hover:border-2 absolute hover:cursor-pointer'></div>
             <Image
-              src="/wisa.JPG"
+              src="/profileicon.JPG"
               width={70}
               height={70}
               alt=''
