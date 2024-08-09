@@ -1,7 +1,6 @@
 'use client';
-import { use, useState } from 'react';
+import { useState } from 'react';
 import Image from 'next/image';
-import Head from 'next/head';
 import './animation.css'; 
 
 function Home() {
@@ -80,7 +79,7 @@ function Home() {
         <link rel="icon" type="image/png" href="/w.png" />
       </head>
       <body>
-      <div className='bg-wallpaper bg-cover bg-left-bottom w-screen h-screen text-white'>
+      <div className='bg-wallpaper bg-cover bg-no-repeat bg-left-bottom w-screen h-screen text-white'>
         <div className='flex'>
           <div className='size-24 m-1 p-0'>
             <div onClick={()=> {
@@ -120,7 +119,7 @@ function Home() {
               width={70}
               height={70}
               alt=''
-              className='rotate-90 aspect-square rounded-full object-cover align-middle justify-items-center m-auto mt-1 pointer-events-none'
+              className='rotate-0 rounded-full object-cover align-middle justify-items-center m-auto mt-1 pointer-events-none'
             />
             <p className='text-xs text-center pointer-events-none relative'>About Me</p>
           </div>

@@ -12,6 +12,10 @@ const config: Config = {
         'wallpaper': "url('/windows-xp-bliss-4k-lu-1920x1080.jpg')",
       },
     },
+      backgroundSize: {
+        'cover': 'cover',
+        'contain': 'contain',
+    },
   },
   plugins: [],
 };
