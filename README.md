@@ -1,4 +1,4 @@
-![alt text]([http://url/to/img.png](https://ibb.co.com/26vRgBw))
+![isauce](https://github.com/user-attachments/assets/fb6f1eb1-be9e-4e18-80d5-63d7a7df778b)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
