@@ -46,22 +46,16 @@ function Home() {
             alt=''
             className='mt-2'
           />
-          <p className='text-blue-500 m-2'>The name is Wisa Ahmaduta Dinutama. I was bitten by a laba-laba sunda, which led me to pursue System and Information Technology at Bandung Institute of Technology. People often describe me in various ways—some call me a <strong onClick={()=> {
-              setShowExperience(false)
-              setShowCoding(true)
-              setShowBiodata(false)}} 
-              className='hover:cursor-pointer'>
-                programmer
-            </strong>, a <a href="https://www.canva.com/design/DAF228c2zxg/sREkTQjsf155nz0IeE4flA/view?utm_content=DAF228c2zxg&utm_campaign=designshare&utm_medium=link&utm_source=editor"><strong>
-              photographer
-            </strong></a>, or even a <strong onClick={()=> {
-              setShowExperience(true)
-              setShowCoding(false)
-              setShowBiodata(false)}} 
-              className='hover:cursor-pointer'>
-              manager
-            </strong>. 
-            At heart, I am just a student who is continuously learning and improving. I am passionate about software engineering. When I am not online playing games, you might find me cycling or spending time with cats. Thank you for visiting (sorry for not offering any cookie). I genuinely hope the strings of fate destined us to do great things together.</p>
+          <p className='text-blue-500 m-2'>3rd-year Information Systems and Technology undergraduate 
+student at Institut Teknologi Bandung with a strong foundation in 
+software development and project management. Through 
+leading digital projects, I’ve built strong communication, problem
+solving, and leadership skills, enabling me to deliver practical, 
+user-focused solutions. Along the way, I’ve developed a growing 
+interest in how systems are not only built, but also protected. This 
+has led me to deepen my focus on cybersecurity, recognizing the 
+rising need for secure, resilient systems in a time when software is 
+being developed and deployed faster than ever.</p>
         </div>
       );
     }
